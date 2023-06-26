@@ -6,8 +6,10 @@
 </p>
 
 ## DataSet
-We are going to text reviews for food on Amazon as well as their rating out of five stars that the reviewer gave them using the Amazon_fine food reviews dataset.
+ Amazon_fine food reviews dataset
 
-VADER Sentiment Scoring
 
+# Vader Model, Roberta Model
+We apply two different models for Sentiment Analysis (Vader and Roberta model) for reviewing the comments on Amazon's fine food dataset.
+We Explored the differences between them and ran them on a whole corpus of data with 500 different reviews from Amazon.
 
