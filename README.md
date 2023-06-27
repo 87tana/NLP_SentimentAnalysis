@@ -7,7 +7,8 @@
 
 
 ## DataSet
- Amazon_fine food reviews dataset
+The Dataset consists of reviews of fine foods from Amazon. Reviews Include rating, user information, plaintext, etc.
+The data was acquired over a period of more than 10 years(~500,000 Observation), but in this project, for the sake of speed, we analyze 500 observation.
 
 
 # Vader Model, Roberta Model
