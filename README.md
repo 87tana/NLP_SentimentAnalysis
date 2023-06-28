@@ -7,7 +7,12 @@
 
 
 ## DataSet
-The Dataset consists of reviews of fine foods from Amazon. Reviews Include rating, user information, plaintext, etc.
+The Dataset consists of reviews of fine foods from Amazon. 
+
+Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
+
+Reviews Include rating, user information, plaintext, etc.
+
 The data was acquired over a period of more than 10 years(~500,000 Observations), but in this project, for the sake of speed, we analyzed 500 observations.
 
 ## Objective
