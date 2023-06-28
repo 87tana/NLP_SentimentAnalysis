@@ -8,12 +8,10 @@
 
 ## DataSet
 The Dataset consists of reviews of fine foods from Amazon. 
-
 Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-Reviews Include rating, user information, plaintext, etc.
-
 The data was acquired over a period of more than 10 years(~500,000 Observations), but in this project, for the sake of speed, we analyzed 500 observations.
+Reviews Include rating, user information, plaintext, etc.
 
 ## Objective
 To determine the sentiment of a review, we analyze the provided rating and classify it as positive (if the rating is 4 or 5) or negative (if the rating is 1 or 2).
