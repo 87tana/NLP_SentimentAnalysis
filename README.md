@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img width="400" src="1_egmUJz0Pxi2OOrALCVAIuw.webp" alt="Material Bread logo">
+    <img width="400" src="sentiment_analysis.webp" alt="Material Bread logo">
 </p>
 
 
