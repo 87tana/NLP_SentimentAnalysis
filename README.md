@@ -20,12 +20,13 @@ The Dataset  [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
 This data was acquired over a period of more than 10 years(~500,000 Observations), but in this project, for the sake of speed, we analyzed 500 observations.
 Reviews Include rating, user information, plaintext, etc.
 
+
 ## Objective
-To determine the sentiment of a review, we analyze the provided rating and classify it as positive (if the rating is 4 or 5) or negative (if the rating is 1 or 2).
+Our Objective is to determine the sentiment of a review; we analyze the provided rating and classify it as positive (if the rating is 4 or 5) or negative (if the rating is 1 or 2).
 
 
 ## Vader Model, Roberta Model
-We apply two different models for Sentiment Analysis (Vader and Roberta model) for reviewing the comments on Amazon's fine food dataset.
+For Sentiment Analysis, we apply two different models (Vader and Roberta model) for reviewing the comments on Amazon's fine food dataset.
 We Explored the differences between them and ran them on a whole corpus of data with 500 different reviews from Amazon.
 
 
