@@ -52,11 +52,16 @@ Summary - brief summary of the review
 Text - text of the review
 
 ## Objective
-Our Objective is to determine the sentiment of a review; we analyze the provided rating and classify it as positive (if the rating is 4 or 5) or negative (if the rating is 1 or 2).
+
+The objective is to classify reviews as either positive (rated 4 or 5) or negative (rated 1 or 2).
+
+## Methodology for Determining Review Sentiment:
+
+We will utilize the provided Score/Rating for the classification. A rating of 4 or 5 will be categorized as a positive review, while a rating of 1 or 2 will be considered negative. Reviews with a rating of 3 will be treated as neutral and excluded from our analysis. This approach serves as an approximate and proxy method for assessing the polarity (positivity/negativity) of a review.
 
 
 ## Vader Model, Roberta Model
-For Sentiment Analysis, we apply two different models (Vader and Roberta model) for reviewing the comments on Amazon's fine food dataset.
+In addition, we compare two different models (Vader and Roberta model) for reviewing the comments on Amazon's fine food dataset.
 We Explored the differences between them and ran them on a whole corpus of data with 500 different reviews from Amazon.
 
 
