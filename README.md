@@ -18,9 +18,19 @@ The application of sentiment analysis extends to categorizing customer reviews o
 ## DataSet
 The Dataset  [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews) consists of reviews of fine foods from Amazon. 
 
-This data was acquired over a period of more than 10 years(~500,000 Observations), but in this project, for the sake of speed, we analyzed 500 observations.
-Reviews Include rating, user information, plaintext, etc.
+This data was acquired over a period of more than 10 years(~500,000 Observations),for the sentiment models comparison , for the sake of speed, we analyzed 500 observations. but for prediction purposes  the whole data were used to analyzed.
 
+## Attribute Information:
+Id
+ProductId - unique identifier for the product
+UserId - unqiue identifier for the user
+ProfileName
+HelpfulnessNumerator - number of users who found the review helpful
+HelpfulnessDenominator - number of users who indicated whether they found the * review helpful or not
+Score - rating between 1 and 5
+Time - timestamp for the review
+Summary - brief summary of the review
+Text - text of the review
 
 ## Objective
 Our Objective is to determine the sentiment of a review; we analyze the provided rating and classify it as positive (if the rating is 4 or 5) or negative (if the rating is 1 or 2).
