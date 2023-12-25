@@ -37,7 +37,7 @@ This data was acquired over a period of more than 10 years(~500,000 Observations
 **HelpfulnessNumerator** :number of users who found the review helpful
 
 
-**HelpfulnessDenominator** : number of users who indicated whether they found the review helpful or not
+**HelpfulnessDenominator** : number of users who found whether they found the review helpful or not
 
 
 **Score** : rating between 1 and 5
