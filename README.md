@@ -4,15 +4,13 @@
 
 This project focuses on sentiment analysis applied to Amazon Fine Food reviews using natural language processing techniques. The primary objective is to conduct a comparative analysis of two widely used sentiment analysis methods. Additionally, the project aims to develop an effective model for discerning whether a review conveys a positive or negative sentiment based on its textual content.
 
-
 <p align="center">
     <img width="400" src="sentiment_analysis.webp" alt="Material Bread logo">
 </p>
 
 ## What is Sentiment Analysis?
-Sentiment analysis involves ascertaining the **emotional tone conveyed in a piece of text**. Typically, a sentiment classification model takes a text input and outputs the probability of the expressed sentiment being positive, negative, or neutral.
 
-The application of sentiment analysis extends to categorizing customer reviews on diverse online platforms.
+Sentiment analysis involves determining the **emotional tone conveyed in a piece of text**. A sentiment classification model takes a text input and outputs the probability of the expressed sentiment being positive, negative, or neutral. The application of sentiment analysis extends to categorizing customer reviews on diverse online platforms.
 
 
 ## DataSet
