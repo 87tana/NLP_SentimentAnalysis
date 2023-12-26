@@ -14,9 +14,8 @@ Sentiment analysis involves determining the **emotional tone conveyed in a piece
 
 
 ## DataSet
-The Dataset  [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews) consists of reviews of fine foods from Amazon. 
 
-This data was acquired over a period of more than 10 years(~500,000 Observations),for the sentiment models comparison , for the sake of speed, we analyzed 500 observations. but for prediction purposes  the whole data were used to analyzed.
+The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews), consists of reviews of fine foods from Amazon. While the dataset spans over 10 years with approximately 500,000 observations, we performed sentiment model comparison on a subset of 500 observations for speed. However, for prediction purposes, the entire dataset was used.
 
 ## Attribute Information:
 
