@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project's main goal is to perform sentiment analysis on Amazon Fine Food reviews, utilizing natural language processing techniques. The primary focus includes a comparative analysis of two widely used sentiment analysis methods. Additionally, the project aims to develop a model that can effectively discern whether a review conveys a positive or negative sentiment based on its textual content.
+This project focuses on sentiment analysis applied to Amazon Fine Food reviews using natural language processing techniques. The primary objective is to conduct a comparative analysis of two widely used sentiment analysis methods. Additionally, the project aims to develop an effective model for discerning whether a review conveys a positive or negative sentiment based on its textual content.
 
 
 <p align="center">
