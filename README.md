@@ -49,10 +49,10 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
 **Text** : text of the review
 
 
-## Distribution of Score
+## Distribution of Scores
 
 <p align="center">
-    <img width="400" src="sentiment_analysis.webp" alt="Material Bread logo">
+    <img width="400" src="Score_Distribution" alt="Material Bread logo">
 </p>
 
 ## Objective
