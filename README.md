@@ -17,7 +17,7 @@ The objective is to given a review is positive (rating of 4or 5) or negative (ra
 
 ## DataSet
 
-The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews), consists of reviews of fine foods from Amazon. While the dataset spans over 10 years with approximately 500,000 observations, we performed sentiment model comparison on a subset of 500 observations for speed. However, for prediction purposes, the entire dataset was used.
+The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews), consists of reviews of fine foods from Amazon. While the dataset spans over 10 years with approximately 500,000 observations, we performed sentiment model comparison on a subset of 500 observations for speed. However, for prediction purposes, the 100,000 observation was used.
 
 ## Distribution of Scores
 
