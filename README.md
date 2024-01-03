@@ -48,6 +48,13 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
 
 **Text** : text of the review
 
+
+## Distribution of Score
+
+<p align="center">
+    <img width="400" src="sentiment_analysis.webp" alt="Material Bread logo">
+</p>
+
 ## Objective
 
 The objective is to classify reviews as either positive (rated 4 or 5) or negative (rated 1 or 2).
