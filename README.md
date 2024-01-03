@@ -50,8 +50,8 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
 ## Distribution of Scores
 
 <p align="center">
-    <img width="400" src="/images/Score_Distribution.png" alt="Material Bread logo">
-</p>
+    <img width="400" src="/Images/Score_Distribution.png" alt="Material Bread logo">
+</p>  
 
 ## Objective
 
