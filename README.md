@@ -10,52 +10,20 @@ This project focuses on sentiment analysis applied to Amazon Fine Food reviews u
 
 Sentiment analysis involves determining the **emotional tone conveyed in a piece of text**. A sentiment classification model takes a text input and outputs the probability of the expressed sentiment being positive, negative, or neutral. The application of sentiment analysis extends to categorizing customer reviews on diverse online platforms.
 
+## Objective
+
+The objective is to given a review is positive (rating of 4or 5) or negative (rating of 1 or 2)
+
 
 ## DataSet
 
 The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews), consists of reviews of fine foods from Amazon. While the dataset spans over 10 years with approximately 500,000 observations, we performed sentiment model comparison on a subset of 500 observations for speed. However, for prediction purposes, the entire dataset was used.
-
-## Attribute Information:
-
-**Id**
-
-
-**ProductId** - unique identifier for the product
-
-
-**UserId** : unqiue identifier for the user
-
-
-**ProfileName**
-
-
-**HelpfulnessNumerator** :number of users who found the review helpful
-
-
-**HelpfulnessDenominator** : number of users who found whether they found the review helpful or not
-
-
-**Score** : rating between 1 and 5
-
-
-**Time** : timestamp for the review
-
-
-**Summary** : brief summary of the review
-
-
-**Text** : text of the review
-
 
 ## Distribution of Scores
 
 <p align="center">
     <img width="400" src="/Images/Score_Distribution.png" alt="Material Bread logo">
 </p>  
-
-## Objective
-
-The objective is to classify reviews as either positive (rated 4 or 5) or negative (rated 1 or 2).
 
 ## Methodology for Determining Review Sentiment:
 
