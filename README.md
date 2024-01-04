@@ -22,7 +22,7 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
 ## Distribution of Scores
 
 <p align="center">
-    <img width="400" src="/Images/Score_Distribution.png" alt="Material Bread logo">
+    <img width="300" src="/Images/Score_Distribution.png" alt="Material Bread logo">
 </p>  
 
 ## Methodology for Determining Review Sentiment:
