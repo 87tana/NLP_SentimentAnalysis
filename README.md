@@ -8,7 +8,7 @@ This project focuses on sentiment analysis applied to Amazon Fine Food reviews u
 
 ## What is Sentiment Analysis?
 
-Sentiment analysis involves determining the **emotional tone conveyed in a piece of text**. A sentiment classification model takes a text input and outputs the probability of the expressed sentiment being positive, negative, or neutral. The application of sentiment analysis extends to categorizing customer reviews on diverse online platforms.
+Sentiment analysis is the process of identifying the emotional tone conveyed in a text. A sentiment classification model takes a given text as input and produces probabilities for whether the sentiment expressed is positive, negative, or neutral. This analytical approach finds application in categorizing customer reviews across various online platforms.
 
 ## Objective
 
