@@ -25,6 +25,11 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
     <img width="300" src="/Images/Score_Distribution.png" alt="Material Bread logo">
 </p>  
 
+
+## Generating BoW model
+
+Generate BoW model for the four preprocessed datasets.
+
 ## Methodology for Determining Review Sentiment:
 
 We will use the provided Score/Rating for classification. A rating of 4 or 5 will be categorized as a positive review, while a rating of 1 or 2 will be considered negative. Reviews with a rating of 3 will be treated as neutral and excluded from our analysis. This approach serves as an approximate and proxy method for assessing the polarity (positivity/negativity) of a review.
