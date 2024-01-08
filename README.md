@@ -21,6 +21,8 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
 
 ## Distribution of Scores by stars
 
+The uneven distribution of instances across different classes represents the imbalance in the target variable (score). The main concern associated with unbalanced datasets is the potential bias introduced in machine learning models, giving preference to the majority class and resulting in less effective performance, especially for the minority classes. In this scenario, Score 2 and Score 3 represent the minority classes.
+
 <p align="right">
     <img width="300" src="/Images/Score_Distribution.png" alt="Material Bread logo">
 </p>  
