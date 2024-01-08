@@ -27,6 +27,8 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
 
 ## Distribution of word count by Scores
 
+The plot shows that usually for very positive and very negative commnets shorter texts are written, while for the middle rate (3) the comments are the longest (probably users write both positive and negative aspects.)
+
 
 ## Generating BoW model
 
