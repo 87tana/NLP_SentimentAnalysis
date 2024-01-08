@@ -29,6 +29,12 @@ The uneven distribution of instances across different classes represents the imb
 
 ## Distribution of word count by Scores
 
+
+<p align="center">
+    <img width="400" src="/Images/word_count.png" alt="Material Bread logo">
+</p>
+
+
 The plot shows that usually for very positive and very negative commnets shorter texts are written, while for the middle rate (3) the comments are the longest (probably users write both positive and negative aspects.)
 
 
