@@ -2,7 +2,7 @@
 
 This project focuses on sentiment analysis applied to Amazon Fine Food reviews using natural language processing techniques. The primary objective is to conduct a comparative analysis of two widely used sentiment analysis methods. Additionally, the project aims to develop an effective model for discerning whether a review conveys a positive or negative sentiment based on its textual content.
 
-<p align="center">
+<p align="right">
     <img width="400" src="/Images/OIP.jpg" alt="Material Bread logo">
 </p>
 
