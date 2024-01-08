@@ -21,7 +21,7 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
 
 ## Distribution of Scores by stars
 
-<p align="center">
+<p align="right">
     <img width="300" src="/Images/Score_Distribution.png" alt="Material Bread logo">
 </p>  
 
