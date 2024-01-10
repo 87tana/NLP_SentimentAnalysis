@@ -37,8 +37,6 @@ The uneven distribution of instances across different classes represents the imb
 
 The plot shows that usually for very positive and very negative commnets shorter texts are written, while for the middle rate (3) the comments are the longest (probably users write both positive and negative aspects.)
 
-
-
 ## Dictionary word Frequencies
 
 <p align="center">
