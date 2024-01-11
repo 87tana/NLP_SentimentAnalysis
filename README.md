@@ -1,6 +1,6 @@
 # NLP_Sentiment Analysis
 
-## Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis;
+## My Medium Articles on Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis
 
 This project focuses on sentiment analysis applied to Amazon Fine Food reviews using natural language processing techniques. The primary objective is to conduct a comparative analysis of two widely used sentiment analysis methods. Additionally, the project aims to develop an effective model for discerning whether a review conveys a positive or negative sentiment based on its textual content.
 
