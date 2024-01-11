@@ -20,9 +20,10 @@ Sentiment analysis, also known as opinion mining, is a crucial tool in the era o
 
 The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews) comprises 568,545 Amazon food reviews spanning a decade, with features such as ProductId, UserId, ProfileName, HelpfulnessNumerator, HelpfulnessDenominator, Score, Time, Summary, and Text.
 
-<p align="Center">
+<div align="center">
     <img width="300" src="/Images/Score_Distribution_1.png" alt="Material Bread logo">
-</p> 
+    <p style="text-align: center ;">Photo created by autor</p> 
+</div>
 
 ## Data Cleaning
 
