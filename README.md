@@ -17,6 +17,10 @@ Sentiment analysis, also known as opinion mining, is a crucial tool in the era o
 
 The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews) comprises 568,545 Amazon food reviews spanning a decade, with features such as ProductId, UserId, ProfileName, HelpfulnessNumerator, HelpfulnessDenominator, Score, Time, Summary, and Text.
 
+<p align="Center">
+    <img width="300" src="/Images/Score_Distribution_1.png" alt="Material Bread logo">
+</p> 
+
 ## Data Cleaning
 
 The dataset underwent cleaning to remove redundancies, resulting in 69.3% of the original reviews for further study.
@@ -25,13 +29,13 @@ The dataset underwent cleaning to remove redundancies, resulting in 69.3% of the
 
 Text preprocessing is a vital step in preparing the reviews for sentiment analysis. This involves removing URLs, HTML tags, punctuation, numeric values, emotions, and special characters. Additionally, stemming and Part-of-Speech (PoS) tagging are applied to refine the processed text.
 
-<p align="Center">
-    <img width="300" src="/Images/Score_Distribution_1.png" alt="Material Bread logo">
-</p>  
-
 ## Feature Engineering
 
+To enhance the effectiveness of user reviews, a new feature called "Usefulness" is introduced, considering the ratio of "Helpfulness Numerator" to "Helpfulness Denominator."
+
 ## Sentiment Classification
+
+Sentiments are classified into positive, negative, and neutral categories based on the review scores.
 
 ## Bag-of-Words(BoW) Vectorization
 
