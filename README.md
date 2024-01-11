@@ -2,6 +2,7 @@
 
 <p align="center">
     <img width="400" src="/Images/title_image.jpg" alt="Material Bread logo">
+     <p style="text-align: center;">Photo created by autor</p> 
 </p>
 
 ## My Medium Articles on NLP Sentiment Analysis
@@ -39,9 +40,15 @@ Sentiments are classified into positive, negative, and neutral categories based 
 
 ## Bag-of-Words(BoW) Vectorization
 
+The BoW model is employed for vectorization, capturing the occurrence of words in the document. The evaluation investigates the impact of different preprocessing steps on the BoW models.
+
 ## Evaluation and Findings
 
+The evaluation reveals insights into the frequencies of vocabulary words, word count in BoW models, prominent words in the vocabulary, and the distribution of words for positive and negative sentiments.
+
 ## Conclusion and future works
+
+The analysis suggests that **stemming** and **POS tagging** contribute to increased consistency and representative information in the text corpus. However, the BoW model alone may not be sufficient for effective sentiment classification. Future work may explore other vectorization methods, such as TF-IDF, to address this limitation
 
 ## Distribution of word count by Scores
 
