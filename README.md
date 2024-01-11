@@ -49,15 +49,11 @@ The BoW model is employed for vectorization, capturing the occurrence of words i
 
 The evaluation reveals insights into the frequencies of vocabulary words, word count in BoW models, prominent words in the vocabulary, and the distribution of words for positive and negative sentiments.
 
-
-
-## Distribution of word count by Scores
-
+## Dictionary word Frequencies
 
 <p align="center">
-    <img width="400" src="/Images/word_count.png" alt="Material Bread logo">
-</p>
-
+    <img width="800" src="/Images/word_fre_dic.png" alt="Material Bread logo">
+</p> 
 
 The plot shows that usually for very positive and very negative commnets shorter texts are written, while for the middle rate (3) the comments are the longest (probably users write both positive and negative aspects.)
 
