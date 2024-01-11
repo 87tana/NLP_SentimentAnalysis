@@ -25,14 +25,13 @@ Sentiment analysis is the process of identifying the emotional tone conveyed in 
 
 The objective is to given a review is positive (rating of 4or 5) or negative (rating of 1 or 2)
 
+## Data Cleaning
 
-## DataSet
+The dataset underwent cleaning to remove redundancies, resulting in 69.3% of the original reviews for further study.
 
-The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews), consists of reviews of fine foods from Amazon. While the dataset spans over 10 years with approximately 500,000 observations, we performed sentiment model comparison on a subset of 500 observations for speed. However, for prediction purposes, the 100,000 observation was used.
+## Text Preprocessing 
 
-## Imbalance distribution of Scores by Stars(Rating)
-
-The uneven distribution of instances across different classes represents the imbalance in the target variable (score). The main concern associated with unbalanced datasets is the potential bias introduced in machine learning models, giving preference to the majority class and resulting in less effective performance, especially for the minority classes. In this scenario, Score 2 and Score 3 represent the minority classes.
+Text preprocessing is a vital step in preparing the reviews for sentiment analysis. This involves removing URLs, HTML tags, punctuation, numeric values, emotions, and special characters. Additionally, stemming and Part-of-Speech (PoS) tagging are applied to refine the processed text.
 
 <p align="Center">
     <img width="300" src="/Images/Score_Distribution_1.png" alt="Material Bread logo">
