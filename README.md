@@ -2,7 +2,7 @@
 
 <p align="center">
     <img width="400" src="/Images/title_image.jpg" alt="Material Bread logo">
-     <p style="text-align: center;">Photo created by autor</p> 
+     <p style="text-align: center ;">Photo created by autor</p> 
 </p>
 
 ## My Medium Articles on NLP Sentiment Analysis
