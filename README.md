@@ -17,14 +17,6 @@ Sentiment analysis, also known as opinion mining, is a crucial tool in the era o
 
 The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews) comprises 568,545 Amazon food reviews spanning a decade, with features such as ProductId, UserId, ProfileName, HelpfulnessNumerator, HelpfulnessDenominator, Score, Time, Summary, and Text.
 
-## What is Sentiment Analysis?
-
-Sentiment analysis is the process of identifying the emotional tone conveyed in a text. A sentiment classification model takes a given text as input and produces probabilities for whether the sentiment expressed is positive, negative, or neutral. This analytical approach finds application in categorizing customer reviews across various online platforms.
-
-## Objective
-
-The objective is to given a review is positive (rating of 4or 5) or negative (rating of 1 or 2)
-
 ## Data Cleaning
 
 The dataset underwent cleaning to remove redundancies, resulting in 69.3% of the original reviews for further study.
@@ -36,6 +28,16 @@ Text preprocessing is a vital step in preparing the reviews for sentiment analys
 <p align="Center">
     <img width="300" src="/Images/Score_Distribution_1.png" alt="Material Bread logo">
 </p>  
+
+## Feature Engineering
+
+## Sentiment Classification
+
+## Bag-of-Words(BoW) Vectorization
+
+## Evaluation and Findings
+
+## Conclusion and future works
 
 ## Distribution of word count by Scores
 
