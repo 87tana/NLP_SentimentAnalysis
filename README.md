@@ -69,10 +69,6 @@ The plot shows that usually for very positive and very negative commnets shorter
     <img width="800" src="/Images/word_fre_dic.png" alt="Material Bread logo">
 </p>  
 
-## Methodology for Determining Review Sentiment:
-
-We will use the provided Score/Rating for classification. A rating of 4 or 5 will be categorized as a positive review, while a rating of 1 or 2 will be considered negative. Reviews with a rating of 3 will be treated as neutral and excluded from our analysis. This approach serves as an approximate and proxy method for assessing the polarity (positivity/negativity) of a review.
-
 
 ## Vader Model, Roberta Model
 Additionally, we compare two different models, Vader and Roberta, for analyzing comments on Amazon's fine food dataset. We explore the differences between them and run them on the entire corpus of data, encompassing 500 different reviews from Amazon.
