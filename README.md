@@ -55,10 +55,7 @@ The evaluation reveals insights into the frequencies of vocabulary words, word c
     <img width="800" src="/Images/word_fre_dic.png" alt="Material Bread logo">
 </p> 
 
-The plot shows that usually for very positive and very negative commnets shorter texts are written, while for the middle rate (3) the comments are the longest (probably users write both positive and negative aspects.)
-
- 
-## Conclusion and future works
+ Sorted frequencies of the vocabularies generated from the different preprocessed text data.
 
 The analysis suggests that **stemming** and **POS tagging** contribute to increased consistency and representative information in the text corpus. However, the BoW model alone may not be sufficient for effective sentiment classification. Future work may explore other vectorization methods, such as TF-IDF, to address this limitation
 
