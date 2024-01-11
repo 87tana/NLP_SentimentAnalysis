@@ -1,9 +1,11 @@
 # NLP_Sentiment Analysis
 
-<p align="center">
+<div align="center">
     <img width="400" src="/Images/title_image.jpg" alt="Material Bread logo">
      <p style="text-align: center ;">Photo created by autor</p> 
-</p>
+</div>
+
+
 
 ## My Medium Articles on NLP Sentiment Analysis
 
