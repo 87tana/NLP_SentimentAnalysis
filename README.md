@@ -66,18 +66,18 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
     <img width="400" src="/Images/prom_dic_words.png" alt="Material Bread logo">
 </p> 
 
-### Frequency of the Vocabulary Words for Sentiment
+#### Frequency of the Vocabulary Words for Sentiment
 
 <p align="center">
     <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
 </p> 
 
 
-### Entropy of Vocabulary Words for Sentiments
+#### Entropy of Vocabulary Words for Sentiments
 
 
 <p align="center">
-    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+    <img width="400" src="/Images/posneg_dic_words.png" alt="Material Bread logo">
 </p> 
 
 
