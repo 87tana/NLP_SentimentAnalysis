@@ -42,6 +42,7 @@ Sentiments are classified into positive, negative, and neutral categories based 
 
 The BoW model is employed for vectorization, capturing the occurrence of words in the document. The evaluation investigates the impact of different preprocessing steps on the BoW models.
 
+
 ## Evaluation and Findings
 
 In this section, the BoW models of the different preprocessed text data are evaluated and compared.
@@ -69,7 +70,7 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
 #### Frequency of the Vocabulary Words for Sentiment
 
 <p align="center">
-    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+    <img width="400" src="/Images/posneg_dic_words.png" alt="Material Bread logo">
 </p> 
 
 
@@ -77,14 +78,14 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
 
 
 <p align="center">
-    <img width="400" src="/Images/posneg_dic_words.png" alt="Material Bread logo">
+    <img width="400" src="/Images/posneg_entropy.png" alt="Material Bread logo">
 </p> 
 
 
-### Prominent Words in the Vocabulary by Entropy
+#### Prominent Words in the Vocabulary by Entropy
 
 <p align="center">
-    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+    <img width="400" src="/Images/pro_word_entropy.png" alt="Material Bread logo">
 </p> 
 
 
