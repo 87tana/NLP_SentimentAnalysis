@@ -60,6 +60,35 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
     <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
 </p> 
 
+### Prominent Words in the Vocabulary
+
+<p align="center">
+    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+</p> 
+
+### Frequency of the Vocabulary Words for Sentiment
+
+<p align="center">
+    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+</p> 
+
+
+### Entropy of Vocabulary Words for Sentiments
+
+
+<p align="center">
+    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+</p> 
+
+
+### Prominent Words in the Vocabulary by Entropy
+
+<p align="center">
+    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+</p> 
+
+
+
 ## Vader Model, Roberta Model
 Additionally, we compare two different models, Vader and Roberta, for analyzing comments on Amazon's fine food dataset. We explore the differences between them and run them on the entire corpus of data, encompassing 500 different reviews from Amazon.
 
