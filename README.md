@@ -57,7 +57,7 @@ In this section, the BoW models of the different preprocessed text data are eval
 
 This suggests  that **stemming** and **POS tagging** contribute to increased consistency and representative information in the text corpus. 
 
-### Word Count Used for BoW Models
+### Word Count Used for BoW Models(Total number in the BoW for different preprocessed data)
 
 <p align="center">
     <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
