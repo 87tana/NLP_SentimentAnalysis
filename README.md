@@ -67,6 +67,8 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
     <img width="400" src="/Images/prom_dic_words.png" alt="Material Bread logo">
 </p> 
 
+ Tagging nouns, adjectives, verbs, and adverbs along with stemming results in a vocabulary that is intuitively more appropriate to represent the sentiments of the text.
+
 #### Frequency of the Vocabulary Words for Sentiment
 
 <p align="center">
