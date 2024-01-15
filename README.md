@@ -47,7 +47,7 @@ The BoW model is employed for vectorization, capturing the occurrence of words i
 
 ## Evaluation and Findings
 
-The evaluation reveals insights into the frequencies of vocabulary words, word count in BoW models, prominent words in the vocabulary, and the distribution of words for positive and negative sentiments.
+In this section, the BoW models of the different preprocessed text data are evaluated and compared.
 
 ### Frequency Vocabulary words
 
@@ -55,9 +55,8 @@ The evaluation reveals insights into the frequencies of vocabulary words, word c
     <img width="800" src="/Images/word_fre_dic.png" alt="Material Bread logo">
 </p> 
 
- Sorted frequencies of the vocabularies generated from the different preprocessed text data.
+This suggests  that **stemming** and **POS tagging** contribute to increased consistency and representative information in the text corpus. 
 
-The analysis suggests that **stemming** and **POS tagging** contribute to increased consistency and representative information in the text corpus. However, the BoW model alone may not be sufficient for effective sentiment classification. Future work may explore other vectorization methods, such as TF-IDF, to address this limitation
 
 ## Vader Model, Roberta Model
 Additionally, we compare two different models, Vader and Roberta, for analyzing comments on Amazon's fine food dataset. We explore the differences between them and run them on the entire corpus of data, encompassing 500 different reviews from Amazon.
