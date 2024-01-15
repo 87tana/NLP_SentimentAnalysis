@@ -57,6 +57,11 @@ In this section, the BoW models of the different preprocessed text data are eval
 
 This suggests  that **stemming** and **POS tagging** contribute to increased consistency and representative information in the text corpus. 
 
+### Word Count Used for BoW Models
+
+<p align="center">
+    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+</p> 
 
 ## Vader Model, Roberta Model
 Additionally, we compare two different models, Vader and Roberta, for analyzing comments on Amazon's fine food dataset. We explore the differences between them and run them on the entire corpus of data, encompassing 500 different reviews from Amazon.
