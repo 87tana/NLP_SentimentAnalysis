@@ -5,9 +5,11 @@
      <p style="text-align: center ;">Photo created by autor</p> 
 </div>
 
+### Check out my articles on NLP Sentiment Analysis on Medium:
 
+[Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis](link_to_article)
 
-##  See my ([Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)) Articles on NLP Sentiment Analysis   
+Feel free to delve into these pieces to gain insights into the fascinating world of Natural Language Processing and Sentiment Analysis!
 
 Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis [Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
