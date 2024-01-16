@@ -1,4 +1,4 @@
-# NLP_Sentiment Analysis
+## NLP_Sentiment Analysis
 
 <div align="center">
     <img width="300" src="/Images/title_image.jpg" alt="Material Bread logo">
@@ -9,9 +9,6 @@
 
 [Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis](link_to_article)
 
-Feel free to delve into these pieces to gain insights into the fascinating world of Natural Language Processing and Sentiment Analysis!
-
-Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis [Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
 
 ## Introduction
