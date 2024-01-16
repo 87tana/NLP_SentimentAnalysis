@@ -5,11 +5,7 @@
      <p style="text-align: center ;">Photo created by autor</p> 
 </div>
 
-### Check out my [Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776) article on NLP Sentiment Analysis on Medium:
-
-
-
-
+### Check out my [Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776) article on NLP Sentiment Analysis
 
 ## Introduction
 Sentiment analysis, also known as opinion mining, is a crucial tool in the era of online commerce, cloud-based software solutions, etc. This project explores sentiment analysis using Natural Language Processing (NLP) and computational techniques, focusing on the Amazon Fine Food Reviews dataset.
