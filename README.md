@@ -18,10 +18,8 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
     <p style="text-align: center ;">Photo created by autor</p> 
 </div>
 
-## Data Cleaning and Text Preprocessing 
-The dataset underwent cleaning to remove redundancies, resulting in 69.3% of the original reviews for further study.
-
-Text preprocessing is a vital step in preparing the reviews for sentiment analysis. This involves removing URLs, HTML tags, punctuation, numeric values, emotions, and special characters. Additionally, stemming and Part-of-Speech (PoS) tagging are applied to refine the processed text.
+## Data Cleaning, Text Preprocessing, and Feature Engineering
+Retaining 69.3% of the original reviews after comprehensive cleaning involves removing redundancies, performing URL removal, HTML tag elimination, punctuation, numeric values, emotions, and special character preprocessing. Additionally, the introduction of the "Usefulness" feature, derived from the ratio of "Helpfulness Numerator" to "Helpfulness Denominator," enhances the overall effectiveness of user reviews.
 
 ## Feature Engineering
 
