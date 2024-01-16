@@ -7,7 +7,7 @@
 
 
 
-## My Medium Articles on NLP Sentiment Analysis
+##  See my ([Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)) Articles on NLP Sentiment Analysis   
 
 Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis [Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
