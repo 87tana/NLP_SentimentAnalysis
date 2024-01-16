@@ -1,7 +1,7 @@
 # NLP_Sentiment Analysis
 
 <div align="center">
-    <img width="400" src="/Images/title_image.jpg" alt="Material Bread logo">
+    <img width="300" src="/Images/title_image.jpg" alt="Material Bread logo">
      <p style="text-align: center ;">Photo created by autor</p> 
 </div>
 
