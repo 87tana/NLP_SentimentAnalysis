@@ -24,10 +24,6 @@ I began by laying the groundwork, delving into EDA, data cleaning, and feature e
 
 To enhance the effectiveness of user reviews, a new feature called "Usefulness" is introduced, considering the ratio of "Helpfulness Numerator" to "Helpfulness Denominator."
 
-## Sentiment Classification
-
-Sentiments are classified into positive, negative, and neutral categories based on the review scores.
-
 ## Bag-of-Words(BoW) Vectorization
 
 The BoW model is employed for vectorization, capturing the occurrence of words in the document. The evaluation investigates the impact of different preprocessing steps on the BoW models.
