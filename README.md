@@ -18,10 +18,9 @@ The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-rev
     <p style="text-align: center ;">Photo created by autor</p> 
 </div>
 
-## Data Cleaning, Text Preprocessing, and Feature Engineering
-Retaining 69.3% of the original reviews after comprehensive cleaning involves removing redundancies, performing URL removal, HTML tag elimination, punctuation, numeric values, emotions, and special character preprocessing. Additionally, the introduction of the "Usefulness" feature, derived from the ratio of "Helpfulness Numerator" to "Helpfulness Denominator," enhances the overall effectiveness of user reviews.
+## Text Preprocessing, and Feature Engineering
 
-## Feature Engineering
+I began by laying the groundwork, delving into EDA, data cleaning, and feature engineering. However, my primary emphasis was on the intricacies of preprocessing. I conducted experiments with four distinct techniques: basic preprocessing, stemming, part-of-speech (POS) tagging, and a combination of all three. Each technique resulted in a separate dataset(list) , which I meticulously fitted and transformed.
 
 To enhance the effectiveness of user reviews, a new feature called "Usefulness" is introduced, considering the ratio of "Helpfulness Numerator" to "Helpfulness Denominator."
 
