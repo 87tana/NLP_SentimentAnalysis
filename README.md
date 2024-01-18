@@ -78,6 +78,14 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
 
 
 
+## Conlusion
+
+This Project assesses text preprocessing and the Bag-of-Words (BoW) model for sentiment analysis using the Amazon Fine Food Reviews dataset. The evaluation reveals that incorporating POS tagging and stemming enhances consistency and representative information in the text corpus. However, the BoW model falls short in creating representative and discriminative vectors for sentiment classification due to its reliance on word frequencies, which may not accurately reflect word significance. This limitation is underscored by word entropies in the text samples. To address this, alternative vectorization methods like TF-IDF, which consider word significance, are recommended for future exploration.
+
+Additionally, a substantial imbalance in positive and negative sentiments within the dataset significantly impacts the generation of effective vocabulary for discriminative vectorization, as indicated by the evaluation results. This imbalance should be taken into account in both vectorization and classification model applications in future studies.
+
+
+
 ## Vader Model, Roberta Model
 Additionally, we compare two different models, Vader and Roberta, for analyzing comments on Amazon's fine food dataset. We explore the differences between them and run them on the entire corpus of data, encompassing 500 different reviews from Amazon.
 
