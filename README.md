@@ -8,7 +8,7 @@
 ### Check out my [Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776) article on NLP Sentiment Analysis
 
 ## Introduction
-Sentiment analysis, also known as opinion mining, is a crucial tool in the era of online commerce, cloud-based software solutions, etc. This project explores sentiment analysis using Natural Language Processing (NLP) and computational techniques, focusing on the Amazon Fine Food Reviews dataset.
+This project explores sentiment analysis using NLP,  let's say you have 1,000 product reviews, so pieces of texts written by users. Can you build a system to automatically go through all of these product reviews to figure out what fraction of them are positive reviews versus negative reviews? 
 
 ## Dataset
 The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews) comprises 568,545 Amazon food reviews spanning a decade, with features such as ProductId, UserId, ProfileName, HelpfulnessNumerator, HelpfulnessDenominator, Score, Time, Summary, and Text.
