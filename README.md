@@ -36,7 +36,7 @@ In this section, the BoW models of the different preprocessed text data are eval
 #### Frequency Vocabulary words
 
 <p align="center">
-    <img width="400" src="/Images/word_fre_dic.png" alt="Material Bread logo">
+    <img width="600" src="/Images/word_fre_dic.png" alt="Material Bread logo">
 </p> 
 
 This suggests  that **stemming** and **POS tagging** contribute to increased consistency and representative information in the text corpus. 
