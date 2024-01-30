@@ -65,16 +65,17 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
 #### Entropy of Vocabulary Words for Sentiments
 
 
-<p align="center">
+<div align="center">
     <img width="400" src="/Images/posneg_entropy.png" alt="Material Bread logo">
-</p> 
+    <p style = 
+</div> 
 
 
 #### Prominent Words in the Vocabulary by Entropy
 
 <p align="center">
     <img width="400" src="/Images/pro_word_entropy.png" alt="Material Bread logo">
-</p> 
+<p style="text-align: center;">Entropies for positive and negative sentiments. The 100 words with the highest entropy are displayed.</p> 
 
 
 
