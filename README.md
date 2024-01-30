@@ -67,7 +67,7 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
 
 <div align="center">
     <img width="400" src="/Images/posneg_entropy.png" alt="Material Bread logo">
-    <p style = 
+    <<p style="text-align: center;">Entropies for positive and negative sentiments. The 100 words with the highest entropy are displayed.</p> 
 </div> 
 
 
@@ -75,7 +75,7 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
 
 <p align="center">
     <img width="400" src="/Images/pro_word_entropy.png" alt="Material Bread logo">
-<p style="text-align: center;">Entropies for positive and negative sentiments. The 100 words with the highest entropy are displayed.</p> 
+<p style="text-align: center;"></p> 
 
 
 
