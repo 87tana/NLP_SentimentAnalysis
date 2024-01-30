@@ -14,7 +14,7 @@ This project explores sentiment analysis using NLP,  let's say you have 1,000 pr
 The dataset, [Amazon Fine Food](https://www.kaggle.com/snap/amazon-fine-food-reviews) comprises 568,545 Amazon food reviews spanning a decade, with features such as ProductId, UserId, ProfileName, HelpfulnessNumerator, HelpfulnessDenominator, Score, Time, Summary, and Text.
 
 <div align="center">
-    <img width="300" src="/Images/Score_Distribution_1.png" alt="Material Bread logo">
+    <img width="600" src="/Images/Score_Distribution_1.png" alt="Material Bread logo">
     <p style="text-align: center ;">Photo created by autor</p> 
 </div>
 
