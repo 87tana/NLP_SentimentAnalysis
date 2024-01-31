@@ -6,7 +6,7 @@
 </div>
 
 ## Blog explanation:
-I've authored a blog detailing the approach I employed to address this sentiment analysis challenge, here I extenisively focus on text preprocessing and the Bag-of-Words (BoW) vectorization techniques.  You can find the article on  my [Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776) my Medium profile for further insights.
+I've authored a blog detailing the approach I employed to address this sentiment analysis challenge, here I extenisively focus on text preprocessing and the Bag-of-Words (BoW) vectorization techniques.  You can find the article on  my [Medium](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776) profile for further insights.
 
 ### Check out article on NLP Sentiment Analysis
 
