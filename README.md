@@ -47,7 +47,7 @@ This suggests  that **stemming** and **POS tagging** contribute to increased con
 #### Word Count Used for BoW Models(Total number in the BoW for different preprocessed data)
 
 <p align="center">
-    <img width="400" src="/Images/bow_word_count.png" alt="Material Bread logo">
+    <img width="500" src="/Images/bow_word_count.png" alt="Material Bread logo">
 </p> 
 
 #### Prominent Words in the Vocabulary
